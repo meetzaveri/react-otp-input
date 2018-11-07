@@ -1,0 +1,21 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+}
+
+.custom-input-boxes {
+  width: 8%;
+  background: #ddd;
+  margin: 6px;
+  text-align: center;
+  border: 1px solid #ddd;
+  padding: 12px 15px;
+  border-radius: 2px;
+  font-family: "Muli", -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto,
+    "Helvetica Neue", Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji",
+    "Segoe UI Symbol";
+  min-width: 80px;
+}
+.custom-form-otp {
+  text-align: center;
+}
